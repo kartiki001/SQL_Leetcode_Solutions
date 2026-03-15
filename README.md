@@ -6,5 +6,6 @@ SQL solutions I have solved on leetcode
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/kartiki001/SQL_Leet/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/kartiki001/SQL_Leet/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
