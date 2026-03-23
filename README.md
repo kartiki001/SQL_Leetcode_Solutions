@@ -12,4 +12,5 @@ SQL solutions I have solved on leetcode
 | [0178-rank-scores](https://github.com/kartiki001/SQL_Leet/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/kartiki001/SQL_Leet/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/kartiki001/SQL_Leet/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0182-duplicate-emails](https://github.com/kartiki001/SQL_Leet/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
