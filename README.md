@@ -15,4 +15,5 @@ SQL solutions I have solved on leetcode
 | [0182-duplicate-emails](https://github.com/kartiki001/SQL_Leet/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/kartiki001/SQL_Leet/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/kartiki001/SQL_Leet/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/kartiki001/SQL_Leet/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
